@@ -1,0 +1,1 @@
+SELECT * from TBL_STUDENT;
